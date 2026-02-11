@@ -98,7 +98,7 @@ const HeroSection = () => {
             }`}
             style={{ transitionDelay: roleComplete ? '0ms' : '0ms' }}
           >
-            Dedicated and skilled developer with 2+ years of experience in building 
+            Dedicated and skilled developer with 3+ years of experience in building 
             cross-platform mobile applications. Passionate about creating smooth, 
             feature-rich solutions.
           </p>

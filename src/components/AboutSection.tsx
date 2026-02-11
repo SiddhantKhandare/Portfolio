@@ -18,7 +18,7 @@ const AboutSection = () => {
   ];
 
   const highlights = [
-    { label: 'Years Experience', value: '2+' },
+    { label: 'Years Experience', value: '3+' },
     { label: 'Projects Completed', value: '5+' },
     { label: 'Technologies', value: '10+' },
   ];
@@ -46,7 +46,7 @@ const AboutSection = () => {
           {/* Left Column - About Text */}
           <AnimatedSection animation="fade-right" delay={200}>
             <p className="text-lg text-muted-foreground leading-relaxed mb-8">
-              Dedicated and skilled React Native Developer with 2 years of experience in 
+              Dedicated and skilled React Native Developer with 3 years of experience in 
               building cross-platform applications. I am passionate about creating smooth, 
               feature-rich mobile solutions that provide exceptional user experiences.
             </p>
