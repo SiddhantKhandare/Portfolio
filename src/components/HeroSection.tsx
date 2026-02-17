@@ -26,7 +26,7 @@ const HeroSection = () => {
 
   const handleDownloadResume = () => {
     // Opens the resume PDF in a new tab (you can replace this URL with your actual resume link)
-    window.open('/Siddhant_Khandare_Resume.pdf', '_blank');
+    window.open('/Siddhant_Khandare_React_Native_Developer.pdf', '_blank');
   };
 
   return (
